@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.py[cod]
+dump/
+data/
+*.pth
+*.pt
+exp/
+*.log
+.DS_Store
